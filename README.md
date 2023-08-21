@@ -2,7 +2,7 @@
 
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-ReadMe-dz is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
+ReadMe-dz is dedicated to providing a harassment-free experience for everyone, regardless of neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form as we are muslims and we abide by shariah law folllowing the teachings of the quran and the sunnah of our beloved prophet Muhammad peace be upon him.
 
 This code of conduct applies to all ReadMe-dz spaces, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the ReadMe-dz team.
 
@@ -10,7 +10,7 @@ This code of conduct applies to all ReadMe-dz spaces, both online and off. Anyon
 
 Harassment includes:
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion
+* Offensive comments related to mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names
 * Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate
